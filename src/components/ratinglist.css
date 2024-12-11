@@ -1,0 +1,19 @@
+.card{
+    display: flex;
+    text-align: left;
+    
+}
+.card-list{
+    background-color: #acc2b6;
+    padding: 10px 45px;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+    margin-left: 20px;
+}
+h3{
+    color: black;
+    margin-bottom: -15px;
+    font-size: 18px;
+}
+p{  
+   font-size: 18px;
+}

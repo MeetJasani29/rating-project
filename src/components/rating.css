@@ -1,0 +1,40 @@
+.active {
+    color: gold;
+    cursor: pointer;
+    font-size: 20px;
+}
+
+.inactive {
+    color: white;
+    cursor: pointer;
+    font-size: 20px;
+}
+input{
+    font-size: 18px;
+    padding: 5px 2px;
+}
+textarea{
+    font-size: 18px;
+    padding: 5px 2px ;
+}
+h2{
+    color: white;
+}
+.ratig-form{
+    background-color: #acc2b6;
+    padding: 50px 50px;
+}
+button{
+    background-color: #3d4f50;
+    margin-top: 10px;
+    border: none;
+    color: white;
+    padding:  10px  40px;
+}
+button:hover{
+    background-color: rgb(31, 53, 31);
+}
+.raring{
+    position: fixed;
+}
+
